@@ -1,2 +1,9 @@
-# My-Blog-sector443.com-akashthakur
-Perosnal blog developed with HTML CSS AND BOOTSTRAP , Hosted on godaddy with sector443 domain.
+#e-portfolio_akashthakur.me
+
+Following profolio describes me as a professional . You can treat is as my digital Resume :)
+
+Developed with : HTML |  CSS  | JS | BOOTSTRAP | Hosted on DO droplet :)
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
